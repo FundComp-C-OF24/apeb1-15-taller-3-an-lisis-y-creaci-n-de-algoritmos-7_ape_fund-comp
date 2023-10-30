@@ -1,1 +1,14 @@
+Algoritmo
+1.Inicio
+2.Pedir el costo del kilovatio hora
+3.Leer el costo de kilovatio hora
+4.Pedir el consumo kilovatio hora
+5.Leer el consumo de kilovatio hora
+6. Calcular plantilla de Luz
+7. Pedir edad
+8. Leer la edad
+9.Si la edad es > 65 se hace descuento del diez por ciento
+10. Calcular descuento
+11. Descuento
+12. Fin
 
