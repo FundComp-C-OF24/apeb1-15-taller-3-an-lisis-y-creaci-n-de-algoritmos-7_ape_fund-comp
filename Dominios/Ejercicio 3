@@ -1,0 +1,1 @@
+dominio entero = [numero % 2 != 0 and 21 <= numero <= 33 and numero != 23]
