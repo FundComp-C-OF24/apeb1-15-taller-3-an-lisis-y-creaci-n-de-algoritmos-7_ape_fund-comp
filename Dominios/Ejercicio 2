@@ -1,0 +1,3 @@
+vocales_cerradas = "iu"
+digitos = "234567"
+Cadena = random.choice(vocales_cerradas) + random.choice(digitos)
