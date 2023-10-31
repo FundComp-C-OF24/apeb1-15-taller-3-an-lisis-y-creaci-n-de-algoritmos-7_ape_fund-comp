@@ -1,0 +1,12 @@
+1.	Inicio 
+2.	Obtener el costo del CPU
+3.	Leer el costo del CPU 
+4.	Obtener el costo del teclado
+5.	Leer el costo del teclado 
+6.	Obtener el costo de la pantalla
+7.	Leer el costo de la pantalla 
+8.	Obtener el costo del ratón
+9.	Leer el costo del ratón 
+10.	Calculamos el costo de la computadora sumamos el costo del CPU más el costo del teclado más el costo de la pantalla más el costo del ratón.
+11.	Mostrar el costo de la computadora
+12.	Fin
