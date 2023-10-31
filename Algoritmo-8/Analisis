@@ -1,1 +1,4 @@
-
+Total = Costo * Consumo
+Si edad < 30 entonces
+Descuento = Total * 0.2
+Total Final = Total - Descuento
