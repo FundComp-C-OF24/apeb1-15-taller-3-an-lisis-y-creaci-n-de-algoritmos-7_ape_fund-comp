@@ -1,1 +1,2 @@
-
+Costo Minutos = Costo * Minutos
+Plantilla Telefono = Costo Minutos * Dias Mes
