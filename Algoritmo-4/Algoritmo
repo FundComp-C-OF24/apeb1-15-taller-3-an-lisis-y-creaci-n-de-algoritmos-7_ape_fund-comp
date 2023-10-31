@@ -1,1 +1,9 @@
-
+1.	Inicio
+2.	Obtener el costo de la plantilla del teléfono 
+3.	Leer el costo de la plantilla del teléfono 
+4.	Obtener los minutos utilizados en el día 
+5.	Leer los minutos utilizados en el día
+6.	Calcular el costo por minutos, multiplicando el costo de la plantilla del teléfono por los minutos utilizados al día 
+7.	Calculamos la plantilla del teléfono, multiplicando el costo por minutos, por los días del mes.
+8.	Mostrar la plantilla de teléfono
+9.	Fin 
