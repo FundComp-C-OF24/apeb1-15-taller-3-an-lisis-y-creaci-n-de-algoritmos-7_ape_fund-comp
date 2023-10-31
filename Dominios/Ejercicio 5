@@ -1,0 +1,2 @@
+caracteres_permitidos = string.ascii_letters + ' ABCDEF'
+if all(caracter in caracteres_permitidos for caracter in cadena) and len(cadena) <= 20
