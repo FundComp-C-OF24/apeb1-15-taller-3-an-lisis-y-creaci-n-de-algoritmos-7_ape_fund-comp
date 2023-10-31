@@ -1,1 +1,16 @@
-
+Inicio
+Obtener el costo mensual del Netflix
+Leer el costo mensual del Netflix
+Obtener el costo mensual de Youtube Premium
+Leer el costo mensual de Youtube Premium
+Obtener el costo mensual de Dropbox
+Leer el costo mensual de Dropbox
+Obtener el costo mensual del Spotify 
+Leer el costo mensual del Spotify
+Calcular el total sumando el costo mensual de Netflix mas el costo mensual de Youtube Premium mas el costo mensual de Dropbox mas el costo mensual de Spotify
+Mostrar el total a pagar
+Obtener la edad del usuario que tiene el servicio
+Si el usuario es menor a 30 años entonces se le daara un descuento del veinte por ciento el resultado del total de pagar se lo multiplica por cero punto dos
+Calcular el total final se resta el total inicial menos el resultado del descuento
+Mostrar el total final a pagar
+Fin
